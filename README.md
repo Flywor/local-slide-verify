@@ -1,5 +1,5 @@
 # local-slide-verify
-原生实现滑块校验，因为懒得放图片就用验证码的生成规则给底图了，可自行修改成图片的。后面有时间会做点击选择文字的校验组件。
+原生实现滑块校验，因为懒得放图片就用验证码的生成规则给底图了，可自行修改成图片的
 
 ###
 [在线演示](https://flywor.github.io/local-slide-verify/dist/index.html " 在线演示")
